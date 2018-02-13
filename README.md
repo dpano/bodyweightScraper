@@ -7,7 +7,7 @@ Happy fitness!!!
 
 # Installing Jupyter using Anaconda and conda
 
-For new users, we highly recommend installing [Anaconda]. [Anaconda] conveniently installs [Python], the Jupyter Notebook, and other commonly used packages for scientific computing and data science.
+For new users, we highly recommend installing **Anaconda**. **Anaconda** conveniently installs **Python**, the **Jupyter Notebook**, and other commonly used packages for scientific computing and data science.
 
 Use the following installation steps:
 
